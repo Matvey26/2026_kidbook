@@ -7,7 +7,7 @@ import os
 # Вычисляем путь относительно расположения этого скрипта
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 # Поднимаемся на 2 уровня вверх (из src -> WORK -> root), затем заходим в WEB...
-TARGET_REL_PATH = "../../WEB/3.1_healthe_lifestyle/hygiene_and_personal_care"
+TARGET_REL_PATH = "../../WEB/3.1_healthe_lifestyle/hygiene_and_personal_care/articles"
 TARGET_DIR = os.path.normpath(os.path.join(SCRIPT_DIR, TARGET_REL_PATH))
 
 # Список статей
