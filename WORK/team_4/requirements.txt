@@ -1,0 +1,4 @@
+langchain-gigachat
+tiktoken
+python-dotenv
+tqdm
