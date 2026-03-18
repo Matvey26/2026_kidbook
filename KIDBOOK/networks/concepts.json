@@ -39,6 +39,22 @@
     "name": "Цифровой сертификат",
     "description": "Электронный «паспорт» сайта, подтверждающий его подлинность; выдаётся удостоверяющим центром",
     "lemmas": ["сертификат", "SSL-сертификат", "удостоверяющий центр", "CA", "HTTPS"],
-    "file": "networks/http_https/README.md"
+    "file": "networks/http_https/http_https.md"
+  },
+  {
+    "id": "networks/tls_article",
+    "name": "TLS и шифрование",
+    "description": "Подстатья: как работает протокол TLS — симметричное и асимметричное шифрование, рукопожатие, цифровые сертификаты",
+    "lemmas": ["TLS", "SSL", "шифрование", "рукопожатие", "handshake", "ключ", "асимметричное шифрование", "симметричное шифрование", "Let's Encrypt"],
+    "file": "networks/http_https/tls.md",
+    "wikidata_id": "Q193143"
+  },
+  {
+    "id": "networks/cookies",
+    "name": "Cookies (куки)",
+    "description": "Подстатья: что такое cookies, зачем нужны, как работают, виды (сессионные, постоянные, сторонние), безопасность",
+    "lemmas": ["cookies", "куки", "cookie", "сессия", "session_id", "Set-Cookie", "корзина", "авторизация", "слежка"],
+    "file": "networks/http_https/cookies.md",
+    "wikidata_id": "Q483326"
   }
 ]
