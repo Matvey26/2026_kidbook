@@ -5,6 +5,7 @@
 """
 
 import os
+import json
 from pathlib import Path
 from dotenv import load_dotenv
 from typing import Union
@@ -57,3 +58,16 @@ def get_llm(name: str,
         llm = llm.with_structured_output(structured)
 
     return llm
+
+
+def get_concepts():
+    with open(Path.cwd().parent / 'ontology.json', 'r', encoding='utf-8') as file:
+        ontology = json.load(file)
+
+    concepts = [
+        (id, concept.lower())
+        for id, concept in ontology['labels'].items()
+        if id[0] == 'Q'
+    ]
+
+    return concepts
