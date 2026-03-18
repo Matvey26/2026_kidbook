@@ -66,19 +66,19 @@
 
 ### 😂 All your base are belong to us
 
-![Aybabtu.png](images/Aybabtu.png)
+![Aybabtu.png](../../images/Aybabtu.png)
 
 Так выглядел оригинальный скриншот из Zero Wing. Корявый перевод и злодей с усами стали легендой.
 
 ### 🌀 Do a barrel roll!
 
-![f75cf1ac1e99ee550d101df5bf3571e8.jpg](images/f75cf1ac1e99ee550d101df5bf3571e8.jpg)![Баррель ролл](images/barrel_roll.jpg "Сделай бочку!")
+![f75cf1ac1e99ee550d101df5bf3571e8.jpg](../../images/f75cf1ac1e99ee550d101df5bf3571e8.jpg)![Баррель ролл](images/barrel_roll.jpg "Сделай бочку!")
 
 Пеппи из Star Fox советует сделать бочку. Теперь так шутят в любой ситуации, где нужно что-то провернуть.
 
 ### 🦵 Arrow in the knee
 
-![tweyrsgx5w3b1.jpg](images/tweyrsgx5w3b1.jpg)
+![tweyrsgx5w3b1.jpg](../../images/tweyrsgx5w3b1.jpg)
 
 Стражники в Skyrim обожают жаловаться на стрелу в колене. Мем стал символом историй о «былых временах».
 
