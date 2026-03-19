@@ -190,6 +190,15 @@ flowchart LR
     style C3 font-size:16px,fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
     style D font-size:22px,fill:#ffebee,stroke:#b71c1c,stroke-width:4px
 ```
+
+## См. также
+
+[Токсичные игроки и как с ними быть — Что делать, если в игре тебя оскорбляют, и почему не стоит отвечать тем же](./toxic_players.md)
+
+[Игры для развития ума — Обзор головоломок, квестов и обучающих игр, которые делают нас умнее](./Games_for_mind_development.md)
+
+
+---
 ## 📝 Авторы
 
 **Алина Карачарова, 306**  
