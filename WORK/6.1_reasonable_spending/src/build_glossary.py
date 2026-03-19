@@ -2,8 +2,8 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
-CONCEPTS_PATH = ROOT / "WORK" / "6_1_reasonable_spending" / "concepts.json"
-OUTPUT_PATH = ROOT / "WEB" / "6_1_reasonable_spending" / "glossary.md"
+CONCEPTS_PATH = ROOT / "WORK" / "6.1_reasonable_spending" / "concepts.json"
+OUTPUT_PATH = ROOT / "WEB" / "6.1_reasonable_spending" / "glossary.md"
 
 
 def main():

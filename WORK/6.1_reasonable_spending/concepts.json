@@ -11,132 +11,132 @@
   ],
   "concepts": [
     {
-      "id": "WEB/6_1_reasonable_spending/articles/budget.md",
+      "id": "WEB/6.1_reasonable_spending/articles/budget.md",
       "name": "Бюджет",
       "description": "Простой план на неделю или месяц: сколько денег приходит, на что тратим и какую часть откладываем.",
       "lemmas": ["планирование", "план трат", "личный бюджет", "распределение денег", "контроль расходов", "финансовая дисциплина"],
       "aliases": ["бюджет", "бюджета", "бюджету", "бюджетом", "бюджете"],
-      "file": "WEB/6_1_reasonable_spending/articles/budget.md"
+      "file": "WEB/6.1_reasonable_spending/articles/budget.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/income.md",
+      "id": "WEB/6.1_reasonable_spending/articles/income.md",
       "name": "Доход",
       "description": "Все денежные поступления: карманные деньги, подарки и другие суммы, которые можно планировать.",
       "lemmas": ["денежные поступления", "источник дохода", "карманные деньги", "подарочные деньги", "регулярный доход"],
       "aliases": ["доход", "дохода", "доходу", "доходом", "доходе", "доходы", "доходов"],
-      "file": "WEB/6_1_reasonable_spending/articles/income.md"
+      "file": "WEB/6.1_reasonable_spending/articles/income.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/expense.md",
+      "id": "WEB/6.1_reasonable_spending/articles/expense.md",
       "name": "Расход",
       "description": "Часть бюджета, которая уходит на еду, учебу, транспорт, развлечения и другие покупки.",
       "lemmas": ["траты", "оплата", "расходы семьи", "обязательные траты", "лишние покупки", "учет трат"],
       "aliases": ["расход", "расхода", "расходу", "расходом", "расходе", "расходы", "расходов"],
-      "file": "WEB/6_1_reasonable_spending/articles/expense.md"
+      "file": "WEB/6.1_reasonable_spending/articles/expense.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/need.md",
+      "id": "WEB/6.1_reasonable_spending/articles/need.md",
       "name": "Потребность",
       "description": "То, что действительно необходимо сейчас: например, проезд, тетради, еда или сезонная одежда.",
       "lemmas": ["необходимость", "приоритетная покупка", "базовые нужды", "обязательные вещи", "важное сначала"],
       "aliases": ["потребность", "потребности", "потребностью", "потребностях"],
-      "file": "WEB/6_1_reasonable_spending/articles/need.md"
+      "file": "WEB/6.1_reasonable_spending/articles/need.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/want.md",
+      "id": "WEB/6.1_reasonable_spending/articles/want.md",
       "name": "Желание",
       "description": "То, что приятно купить, но можно перенести на потом без вреда для важных дел.",
       "lemmas": ["хочу", "приятная покупка", "необязательные траты", "развлечения", "выбор хочу или надо"],
       "aliases": ["желание", "желания", "желанием", "желаний"],
-      "file": "WEB/6_1_reasonable_spending/articles/want.md"
+      "file": "WEB/6.1_reasonable_spending/articles/want.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/savings.md",
+      "id": "WEB/6.1_reasonable_spending/articles/savings.md",
       "name": "Накопления",
       "description": "Деньги, которые не тратят сразу, а сохраняют на будущую цель или на непредвиденные случаи.",
       "lemmas": ["сбережения", "копить", "копилка", "финансовый резерв", "отложенные деньги", "долгосрочный план"],
       "aliases": ["накопления", "накоплений", "накоплениям", "накоплениями"],
-      "file": "WEB/6_1_reasonable_spending/articles/savings.md"
+      "file": "WEB/6.1_reasonable_spending/articles/savings.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/financial_goal.md",
+      "id": "WEB/6.1_reasonable_spending/articles/financial_goal.md",
       "name": "Финансовая цель",
       "description": "Конкретный результат с суммой и сроком: например, накопить на самокат к лету.",
       "lemmas": ["финансовая цель", "срок", "целевая сумма", "пошаговый план", "достижение", "мотивация"],
       "aliases": ["финансовая цель", "финансовой целью", "цель", "цели", "целью", "целей"],
-      "file": "WEB/6_1_reasonable_spending/articles/financial_goal.md"
+      "file": "WEB/6.1_reasonable_spending/articles/financial_goal.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/price.md",
+      "id": "WEB/6.1_reasonable_spending/articles/price.md",
       "name": "Цена",
       "description": "Число на ценнике, по которому мы понимаем, сколько стоит товар или услуга в магазине.",
       "lemmas": ["стоимость", "ценник", "цена товара", "дороже дешевле", "выбор по цене", "проверка цен"],
       "aliases": ["цена", "цены", "цене", "цену", "ценой", "цен"],
-      "file": "WEB/6_1_reasonable_spending/articles/price.md"
+      "file": "WEB/6.1_reasonable_spending/articles/price.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/discount.md",
+      "id": "WEB/6.1_reasonable_spending/articles/discount.md",
       "name": "Скидка",
       "description": "Временное снижение цены по акции; выгодно только если покупка была нужна и до скидки.",
       "lemmas": ["акция", "снижение цены", "процент", "выгода", "проверка до скидки", "ложная выгода"],
       "aliases": ["скидка", "скидки", "скидке", "скидку", "скидкой", "скидок"],
-      "file": "WEB/6_1_reasonable_spending/articles/discount.md"
+      "file": "WEB/6.1_reasonable_spending/articles/discount.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/comparison.md",
+      "id": "WEB/6.1_reasonable_spending/articles/comparison.md",
       "name": "Сравнение",
       "description": "Способ выбрать лучший вариант: сопоставить несколько товаров по цене, качеству и условиям.",
       "lemmas": ["сопоставление", "варианты", "критерии выбора", "характеристики", "лучшее предложение"],
       "aliases": ["сравнение", "сравнения", "сравнении", "сравнением"],
-      "file": "WEB/6_1_reasonable_spending/articles/comparison.md"
+      "file": "WEB/6.1_reasonable_spending/articles/comparison.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/quality.md",
+      "id": "WEB/6.1_reasonable_spending/articles/quality.md",
       "name": "Качество",
       "description": "Надежность и удобство вещи в реальном использовании, а не только по красивой рекламе.",
       "lemmas": ["надежность", "долговечность", "безопасность", "удобство", "проверка отзывов", "цена и качество"],
       "aliases": ["качество", "качества", "качестве", "качеством"],
-      "file": "WEB/6_1_reasonable_spending/articles/quality.md"
+      "file": "WEB/6.1_reasonable_spending/articles/quality.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/receipt.md",
+      "id": "WEB/6.1_reasonable_spending/articles/receipt.md",
       "name": "Чек",
       "description": "Подтверждение покупки с датой и суммой; нужно для учета расходов и возможного возврата.",
       "lemmas": ["квитанция", "подтверждение оплаты", "дата покупки", "сумма", "контроль расходов", "гарантия и возврат"],
       "aliases": ["чек", "чека", "чеку", "чеком", "чеке", "чеки", "чеков"],
-      "file": "WEB/6_1_reasonable_spending/articles/receipt.md"
+      "file": "WEB/6.1_reasonable_spending/articles/receipt.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/pocket_money.md",
+      "id": "WEB/6.1_reasonable_spending/articles/pocket_money.md",
       "name": "Карманные деньги",
       "description": "Личные деньги ребенка на небольшие траты, с которыми удобно учиться финансовой самостоятельности.",
       "lemmas": ["личные расходы", "регулярная сумма", "самостоятельность", "детский бюджет", "ответственное поведение"],
       "aliases": ["карманные деньги", "карманных денег", "карманными деньгами"],
-      "file": "WEB/6_1_reasonable_spending/articles/pocket_money.md"
+      "file": "WEB/6.1_reasonable_spending/articles/pocket_money.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/cash.md",
+      "id": "WEB/6.1_reasonable_spending/articles/cash.md",
       "name": "Наличные",
       "description": "Купюры и монеты для оплаты без терминала; по ним проще визуально отслеживать остаток.",
       "lemmas": ["бумажные деньги", "монеты", "оплата наличными", "получить сдачу", "остаток денег"],
       "aliases": ["наличные", "наличных", "наличными"],
-      "file": "WEB/6_1_reasonable_spending/articles/cash.md"
+      "file": "WEB/6.1_reasonable_spending/articles/cash.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/bank_card.md",
+      "id": "WEB/6.1_reasonable_spending/articles/bank_card.md",
       "name": "Банковская карта",
       "description": "Средство безналичной оплаты, с которым важно соблюдать правила безопасности и проверять списания.",
       "lemmas": ["банковская карта", "безналичная оплата", "пин-код", "защита данных", "история операций"],
       "aliases": ["банковская карта", "банковской картой", "банковской карты", "карта", "карты", "картой"],
-      "file": "WEB/6_1_reasonable_spending/articles/bank_card.md"
+      "file": "WEB/6.1_reasonable_spending/articles/bank_card.md"
     },
     {
-      "id": "WEB/6_1_reasonable_spending/articles/impulse_purchase.md",
+      "id": "WEB/6.1_reasonable_spending/articles/impulse_purchase.md",
       "name": "Импульсивная покупка",
       "description": "Спонтанная покупка без обдумывания: обычно совершается из-за эмоций и ломает заранее составленный план.",
       "lemmas": ["спонтанная трата", "эмоциональное решение", "соблазн", "неплановая покупка", "правило паузы"],
       "aliases": ["импульсивная покупка", "импульсивной покупкой", "импульсивные покупки"],
-      "file": "WEB/6_1_reasonable_spending/articles/impulse_purchase.md"
+      "file": "WEB/6.1_reasonable_spending/articles/impulse_purchase.md"
     }
   ]
 }

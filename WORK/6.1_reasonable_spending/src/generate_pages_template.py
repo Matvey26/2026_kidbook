@@ -8,8 +8,8 @@ from urllib.error import HTTPError, URLError
 # Перед публикацией тексты обязательно проходят ручную вычитку команды.
 
 ROOT = Path(__file__).resolve().parents[3]
-CONCEPTS_PATH = ROOT / "WORK" / "6_1_reasonable_spending" / "concepts.json"
-OUTPUT_DIR = ROOT / "WEB" / "6_1_reasonable_spending" / "articles"
+CONCEPTS_PATH = ROOT / "WORK" / "6.1_reasonable_spending" / "concepts.json"
+OUTPUT_DIR = ROOT / "WEB" / "6.1_reasonable_spending" / "articles"
 
 LLM_API_URL = os.getenv("LLM_API_URL", "")
 LLM_API_KEY = os.getenv("LLM_API_KEY", "")

@@ -14,7 +14,7 @@
     - скрипт генерации черновиков страниц через LLM API;
     - скрипт сборки страницы словаря терминов.
    - таблицы узлов и связей онтологии.
-5. Подготовлены и вручную отредактированы markdown-страницы в каталоге `WEB/6_1_reasonable_spending/articles`.
+5. Подготовлены и вручную отредактированы markdown-страницы в каталоге `WEB/6.1_reasonable_spending/articles`.
 
 ## Концептуализация и онтология
 
@@ -114,7 +114,7 @@ SPARQL-запросы сохранены в папке `sparql`.
 set LLM_API_URL=https://your-endpoint
 set LLM_API_KEY=your_key
 set LLM_MODEL=your_model
-python WORK/6_1_reasonable_spending/src/generate_pages_template.py
+python WORK/6.1_reasonable_spending/src/generate_pages_template.py
 ```
 
 ### Скрипт перекрестных ссылок
@@ -122,13 +122,13 @@ python WORK/6_1_reasonable_spending/src/generate_pages_template.py
 
 Назначение:
 - читает `concepts.json`;
-- проходит по markdown-страницам в `WEB/6_1_reasonable_spending/articles`;
+- проходит по markdown-страницам в `WEB/6.1_reasonable_spending/articles`;
 - заменяет найденные термины на markdown-ссылки;
 - не меняет заголовки и уже существующие ссылки.
 
 Запуск из корня репозитория:
 ```bash
-python WORK/6_1_reasonable_spending/src/insert_links.py
+python WORK/6.1_reasonable_spending/src/insert_links.py
 ```
 
 ### Генерация словаря терминов
@@ -136,17 +136,17 @@ python WORK/6_1_reasonable_spending/src/insert_links.py
 
 Запуск:
 ```bash
-python WORK/6_1_reasonable_spending/src/build_glossary.py
+python WORK/6.1_reasonable_spending/src/build_glossary.py
 ```
 
 ## Структура артефактов этой группы
-- `WORK/6_1_reasonable_spending/README.md` - отчет группы
-- `WORK/6_1_reasonable_spending/concepts.json` - словарь понятий
-- `WORK/6_1_reasonable_spending/sparql/` - SPARQL-запросы к WikiData и DBpedia
-- `WORK/6_1_reasonable_spending/raw_data/` - узлы и связи онтологии
-- `WORK/6_1_reasonable_spending/src/` - автоматизация
-- `WORK/6_1_reasonable_spending/llm_prompts.md` - шаблоны промптов
-- `WEB/6_1_reasonable_spending/articles/` - детские markdown-страницы
+- `WORK/6.1_reasonable_spending/README.md` - отчет группы
+- `WORK/6.1_reasonable_spending/concepts.json` - словарь понятий
+- `WORK/6.1_reasonable_spending/sparql/` - SPARQL-запросы к WikiData и DBpedia
+- `WORK/6.1_reasonable_spending/raw_data/` - узлы и связи онтологии
+- `WORK/6.1_reasonable_spending/src/` - автоматизация
+- `WORK/6.1_reasonable_spending/llm_prompts.md` - шаблоны промптов
+- `WEB/6.1_reasonable_spending/articles/` - детские markdown-страницы
 
 ## Проверка и ручная редактура
 1. Все статьи прошли проверку участниками команды на понятность для детей и соответствие теме раздела.
