@@ -27,4 +27,7 @@
 - [Skill-микс: идём на курсы не за дипломом, а за людьми](../../../WEB/2.1_society/how_and_where_find_friends/articles/skill_miks.md)
 - [Цифровая дружба: реально ли найти друга в соцсетях?](../../../WEB/2.1_society/how_and_where_find_friends/articles/tcifrovaya_druzhba.md)
 - [Токсичные друзья: 5 звоночков, что пора заканчивать эту "дружбу"](../../../WEB/2.1_society/how_and_where_find_friends/articles/toksichnye_druzya.md)
+- [Дружба после школы: Что делать, если живешь в одном дворе, а интересы — в разных вселенных?](../../../WEB/2.1_society/how_and_where_find_friends/articles/druzhba_posle_shkoly.md)
+- [Конфликты: Как поссориться с лучшим другом и не потерять его навсегда](../../../WEB/2.1_society/how_and_where_find_friends/articles/konflikty_s_druzyami.md)
+- [Сам себе интересный: Как проводить время с собой, чтобы не сойти с ума от одиночества](../../../WEB/2.1_society/how_and_where_find_friends/articles/sam_sebe_interesnyi.md)
 
