@@ -280,7 +280,8 @@
     "lemmas": ["дата-центр", "ЦОД", "data center", "серверная", "серверная стойка"],
     "file": "networks/general/server.md",
     "wikidata_id": "Q190581"
-   },
+  },
+  {
     "id": "networks/internet_history",
     "name": "История интернета",
     "description": "Обзор истории интернета: от ARPANET до наших дней, сеть, протоколы, IP, DNS, HTTP, Wi-Fi",
@@ -301,7 +302,7 @@
     "description": "Подстатья: модемы, провайдеры, BBS, браузеры, Wi-Fi, соцсети — путь из лабораторий в дома",
     "lemmas": ["модем", "провайдер", "BBS", "браузер", "Mosaic", "Netscape", "Internet Explorer", "Chrome", "Wi-Fi", "соцсети", "AOL"],
     "file": "networks/history/internet_at_home.md"
- },
+  },
   {
     "id": "networks/dns",
     "name": "DNS",
