@@ -1,0 +1,77 @@
+{
+	"section": "6.1_Independent_living_and_daily_living_skills",
+	"topic": "Простая и безопасная готовка",
+	"author_group": "Команда \"Простая и безопасная готовка\"",
+	"members": [
+		"Венков Кирилл"
+	],
+	"concepts": [
+		{
+			"id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/minimum_set_of_kitchen_utensils",
+			"description": "О минимальном наборе кухонного инвентаря для новичка: какие ножи, доски, посуда и мелкие инструменты действительно нужны, как выбирать качественные и безопасные предметы и как ухаживать за ними.",
+			"lemmas": [
+				"кухонный инвентарь",
+				"минимальный набор",
+				"нож",
+				"разделочная доска",
+				"кастрюля",
+				"сковорода",
+				"кухонная утварь",
+				"безопасность на кухне",
+				"выбор посуды",
+				"уход за посудой",
+				"хранение инвентаря",
+				"начинающий кулинар"
+			],
+			"name": "minimum_set_of_kitchen_utensils",
+			"file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/minimum_set_of_kitchen_utensils.md",
+			"wikidata_id": "",
+			"author": "Венков Кирилл"
+		},
+		{
+			"id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/organizing_workspace_in_kitchen",
+			"description": "О принципе mise en place и организации рабочего места на кухне: как заранее готовить продукты и инструменты, поддерживать порядок на столе и безопасно располагать ножи, горячую посуду и технику.",
+			"lemmas": [
+				"организация рабочего места",
+				"кухня",
+				"порядок на кухне",
+				"mise en place",
+				"мизансцена",
+				"зонирование кухни",
+				"рабочая поверхность",
+				"ножи",
+				"горячая посуда",
+				"кухонная техника",
+				"безопасность на кухне",
+				"привычки порядка"
+			],
+			"name": "organizing_workspace_in_kitchen",
+			"file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/organizing_workspace_in_kitchen.md",
+			"wikidata_id": "",
+			"author": "Венков Кирилл"
+		},
+		{
+			"id": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/safe_use_of_kitchen_appliances",
+			"description": "О безопасном использовании микроволновки, блендера и мультиварки: основные правила, типичные ошибки начинающих и способы избежать ожогов, порезов и задымления на кухне.",
+			"lemmas": [
+				"микроволновка",
+				"блендер",
+				"мультиварка",
+				"кухонная техника",
+				"безопасность",
+				"правила безопасности",
+				"типичные ошибки",
+				"ожоги",
+				"порезы",
+				"пожар",
+				"электробезопасность",
+				"инструкция по эксплуатации"
+			],
+			"name": "safe_use_of_kitchen_appliances",
+			"file": "6.1_Independent_living_and_daily_living_skills/Simple_and_safe_cooking/articles/safe_use_of_kitchen_appliances.md",
+			"wikidata_id": "",
+			"author": "Венков Кирилл"
+		}
+	]
+}
+
