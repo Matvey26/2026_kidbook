@@ -158,6 +158,15 @@ flowchart TD
     style Res4 fill:#a5d6a7,stroke:#1b5e20,stroke-width:2px
     style F fill:#ffe0b2,stroke:#ff6f00,stroke-width:4px,font-size:20px
 ```
+
+## См. также
+
+[Глаза и спина: правила выживания — Как правильно сидеть, чтобы после игры не болела шея, и почему важно моргать](./eyes_and_back.md)
+
+[Игры для развития ума — Обзор головоломок, квестов и обучающих игр, которые делают нас умнее](./Games_for_mind_development.md)
+
+
+---
 ## 📝 Авторы
 
 **Алина Карачарова, 306**  
