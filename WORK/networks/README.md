@@ -4,7 +4,7 @@
 
 | Участник | GitHub | Статьи |
 |----------|--------|--------|
-| oguzok2012 | @oguzok2012 | TCP и UDP, Как работает онлайн-игра изнутри, Что такое пакет |
+| Александр | @oguzok2012 | TCP и UDP, Как работает онлайн-игра изнутри, Что такое пакет |
 | Никита | — | HTTP и HTTPS |
 | *участник 3* | — | *—* |
 | *участник 4* | — | *—* |
@@ -20,9 +20,9 @@
 | [История интернета](../../KIDBOOK/networks/history/internet_history.md) | Дима | ✅ |
 | [Wi-Fi и локальная сеть](../../KIDBOOK/networks/wifi_lan/README.md) | — | 🚧 |
 | [IP и MAC-адреса](../../KIDBOOK/networks/ip_mac/README.md) | — | 🚧 |
-| [TCP и UDP](../../KIDBOOK/networks/tcp_udp/tcp_udp.md) | oguzok2012 | ✅ |
-| [Как работает онлайн-игра изнутри](../../KIDBOOK/networks/tcp_udp/online_games.md) | oguzok2012 | ✅ |
-| [Что такое пакет и как данные делятся на части](../../KIDBOOK/networks/tcp_udp/packet.md) | oguzok2012 | 🚧 |
+| [TCP и UDP](../../KIDBOOK/networks/tcp_udp/tcp_udp.md) | Александр | ✅ |
+| [Как работает онлайн-игра изнутри](../../KIDBOOK/networks/tcp_udp/online_games.md) | Александр | ✅ |
+| [Что такое пакет и как данные делятся на части](../../KIDBOOK/networks/tcp_udp/packet.md) | Александр | 🚧 |
 | [DNS](../../KIDBOOK/networks/dns/README.md) | — | 🚧 |
 | [HTTP и HTTPS](../../KIDBOOK/networks/http_https/http_https.md) | Никита | ✅ |
 
@@ -30,7 +30,7 @@
 
 ## Онтология
 
-### TCP и UDP — граф понятий (oguzok2012)
+### TCP и UDP — граф понятий (Александр)
 
 ```mermaid
 graph TD
@@ -97,7 +97,7 @@ graph TD
     style QUIC fill:#c0392b,color:#fff
 ```
 
-### Пакет — граф понятий (oguzok2012)
+### Пакет — граф понятий (Александр)
 
 ```mermaid
 graph TD
@@ -140,7 +140,7 @@ graph TD
     style OSI fill:#8e44ad,color:#fff
 ```
 
-### Онлайн-игры — граф понятий (oguzok2012)
+### Онлайн-игры — граф понятий (Александр)
 
 ```mermaid
 graph TD
@@ -179,32 +179,32 @@ graph TD
 
 | Понятие | WikiData ID | Автор | Статья |
 |---------|-------------|-------|--------|
-| TCP | Q8803 | oguzok2012 | tcp_udp |
-| UDP | Q11163 | oguzok2012 | tcp_udp |
-| Транспортный уровень | Q209372 | oguzok2012 | tcp_udp |
-| Модель OSI | Q93312 | oguzok2012 | tcp_udp |
-| Стек TCP/IP | Q81414 | oguzok2012 | tcp_udp |
-| 3-way handshake | Q548838 | oguzok2012 | tcp_udp |
-| Connection-oriented | Q1771161 | oguzok2012 | tcp_udp |
-| Connectionless | Q727896 | oguzok2012 | tcp_udp |
-| WebSocket | Q859938 | oguzok2012 | tcp_udp / online_game |
-| RTP | Q321213 | oguzok2012 | tcp_udp / online_game |
-| QUIC | Q7265601 | oguzok2012 | tcp_udp / online_game |
-| Онлайн-игра | Q116634 | oguzok2012 | online_game |
-| Многопользовательская игра | Q6895044 | oguzok2012 | online_game |
-| MMO | Q862490 | oguzok2012 | online_game |
-| Кооперативный режим | Q1758804 | oguzok2012 | online_game |
-| Компьютерная игра | Q7889 | oguzok2012 | online_game |
+| TCP | Q8803 | Александр | tcp_udp |
+| UDP | Q11163 | Александр | tcp_udp |
+| Транспортный уровень | Q209372 | Александр | tcp_udp |
+| Модель OSI | Q93312 | Александр | tcp_udp |
+| Стек TCP/IP | Q81414 | Александр | tcp_udp |
+| 3-way handshake | Q548838 | Александр | tcp_udp |
+| Connection-oriented | Q1771161 | Александр | tcp_udp |
+| Connectionless | Q727896 | Александр | tcp_udp |
+| WebSocket | Q859938 | Александр | tcp_udp / online_game |
+| RTP | Q321213 | Александр | tcp_udp / online_game |
+| QUIC | Q7265601 | Александр | tcp_udp / online_game |
+| Онлайн-игра | Q116634 | Александр | online_game |
+| Многопользовательская игра | Q6895044 | Александр | online_game |
+| MMO | Q862490 | Александр | online_game |
+| Кооперативный режим | Q1758804 | Александр | online_game |
+| Компьютерная игра | Q7889 | Александр | online_game |
 | HTTP/HTTPS | Q8777 | Никита | http_https |
 | TLS/SSL | Q193143 | Никита | http_https |
 | Cookies | Q483326 | Никита | http_https |
-| Сетевой пакет | Q214111 | oguzok2012 | packet |
-| PDU (блок данных протокола) | Q2634565 | oguzok2012 | packet |
-| SDU | Q1758093 | oguzok2012 | packet |
-| Инкапсуляция | Q1172449 | oguzok2012 | packet |
-| IP-фрагментация | Q1332338 | oguzok2012 | packet |
-| Сетевой уровень OSI | Q208074 | oguzok2012 | packet |
-| IP | Q8795 | oguzok2012 | packet |
+| Сетевой пакет | Q214111 | Александр | packet |
+| PDU (блок данных протокола) | Q2634565 | Александр | packet |
+| SDU | Q1758093 | Александр | packet |
+| Инкапсуляция | Q1172449 | Александр | packet |
+| IP-фрагментация | Q1332338 | Александр | packet |
+| Сетевой уровень OSI | Q208074 | Александр | packet |
+| IP | Q8795 | Александр | packet |
 | *понятие* | *—* | *участник 4* | *—* |
 | *понятие* | *—* | *участник 5* | *—* |
 
@@ -212,7 +212,7 @@ graph TD
 
 ## Источники знаний
 
-### oguzok2012 — TCP и UDP + Онлайн-игры + Пакет
+### Александр — TCP и UDP + Онлайн-игры + Пакет
 
 #### Запрос 1: базовая информация о TCP и UDP
 ```sparql
@@ -462,7 +462,7 @@ WHERE {
 
 ## Процесс генерации статей
 
-### oguzok2012 — TCP и UDP
+### Александр — TCP и UDP
 
 **Инструменты:** WikiData (SPARQL), Claude 4.5 Opus
 

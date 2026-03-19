@@ -128,7 +128,7 @@
 
 ---
 
-Авторы: oguzok2012
+Авторы: Александр Горячев
 
 *Данные: WikiData ([Q214111](https://www.wikidata.org/wiki/Q214111), [Q2634565](https://www.wikidata.org/wiki/Q2634565), [Q1758093](https://www.wikidata.org/wiki/Q1758093), [Q1172449](https://www.wikidata.org/wiki/Q1172449), [Q1332338](https://www.wikidata.org/wiki/Q1332338), [Q208074](https://www.wikidata.org/wiki/Q208074), [Q93312](https://www.wikidata.org/wiki/Q93312), [Q8795](https://www.wikidata.org/wiki/Q8795))*
 
