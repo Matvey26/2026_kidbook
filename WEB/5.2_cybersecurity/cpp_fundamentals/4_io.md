@@ -166,10 +166,6 @@ std::getline(std::cin, name);
 - После `std::cin >>` перед `std::getline` вызывайте `std::cin.ignore()`.
 
 ---
-
-## Эпилог
-
----
 [Вернуться к списку статей](./article_index_information_media_literacy.md)
 
 ---
