@@ -49,7 +49,6 @@ gemini_model_list = [
     'gemini-2.5-pro',
     'gemini-2.5-flash',
     'gemini-2.5-flash-lite',
-    'gemini-2.5-flash-lite-preview-09-2025',
 ]
 
 def _extract_tag(text: str, tag: str) -> Optional[str]:
