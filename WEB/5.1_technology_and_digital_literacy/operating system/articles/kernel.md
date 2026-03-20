@@ -123,5 +123,5 @@ flowchart TB
 
 ---
 
-**Автор**: [Воронухин Никита](https://github.com/DeZtrOiD)
-**LLM - Deepseek**
+**Автор**: [Жаворонков Никита](https://github.com/Supertos)
+**LLM - Qwen3.5-Plus**
