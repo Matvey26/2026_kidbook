@@ -116,5 +116,5 @@ flowchart TB
 - [[virtual_memory]] — виртуальная память
 - [[physical_memory]] — физическая память
 - [[interrupt]] — прерывания
-- [[Hardware Abstraction layer]] — уровень абстракции оборудования
+- [[HAL]] — уровень абстракции оборудования
 - [[file_system]] — файловая система
