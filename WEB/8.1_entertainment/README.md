@@ -1,4 +1,4 @@
-# Развлечения: игры, фильмы и музыка — баланс пользы и развлечения
+# Развлечения: игры, фильмы и [музыка](articles/music.md) — [баланс](../7.2_leisure/useful_and_interesting_leisure/articles/balance_study_rest_hobby.md) пользы и развлечения
 
 ## Описание направления
 
@@ -6,7 +6,7 @@
 
 ## Онтология предметной области
 
-### Визуализация (Mermaid)
+### [Визуализация](../how_to_memorize/articles/vizualizaciya.md) (Mermaid)
 
 ```mermaid
 graph TD
@@ -74,57 +74,57 @@ graph TD
 
 | Тип связи | Обозначение | Примеры |
 |-----------|-------------|---------|
-| **Иерархическая** (подвид / включает) | Сплошная линия → | Развлечение → Фильм; Фильм → Мультфильм |
-| **Горизонтальная** (влияет / использует) | Пунктирная линия -.-> | Фильмы ↔ Игры (экранизации); Песня → Фильм (саундтрек) |
-| **Функциональная** (требует / развивает) | Пунктирная линия -.-> | Развлечение → Медиаграмотность |
+| **Иерархическая** (подвид / включает) | Сплошная линия → | Развлечение → [Фильм](articles/movie.md); Фильм → [Мультфильм](articles/animation.md) |
+| **Горизонтальная** (влияет / использует) | Пунктирная линия -.-> | Фильмы ↔ Игры (экранизации); Песня → Фильм ([саундтрек](articles/soundtrack.md)) |
+| **Функциональная** (требует / развивает) | Пунктирная линия -.-> | Развлечение → [Медиаграмотность](../5.1_technology_and_digital_literacy/information and media literacy/что_такое_информационная_и_медиаграмотность.md) |
 
 ### Список понятий
 
 | # | Понятие | WikiData | Категория | Файл |
 |---|---------|----------|-----------|------|
-| 1 | История видеоигр | [Q941220](https://www.wikidata.org/wiki/Q941220) | Игры | `articles/history-of-games.md` |
+| 1 | [История видеоигр](articles/history-of-games.md) | [Q941220](https://www.wikidata.org/wiki/Q941220) | Игры | `articles/history-of-games.md` |
 | 2 | Жанры видеоигр | [Q659563](https://www.wikidata.org/wiki/Q659563) | Игры | `articles/game-genres.md` |
-| 3 | Настольные игры | [Q131436](https://www.wikidata.org/wiki/Q131436) | Игры | `articles/board-games.md` |
-| 4 | Киберспорт | [Q300920](https://www.wikidata.org/wiki/Q300920) | Игры | `articles/esports.md` |
-| 5 | Азартные игры и их вред | [Q133323](https://www.wikidata.org/wiki/Q133323) | Игры | `articles/gambling-and-harm.md` |
-| 6 | Геймификация | [Q1145661](https://www.wikidata.org/wiki/Q1145661) | Игры | `articles/gamification.md` |
-| 7 | Композитор | [Q36834](https://www.wikidata.org/wiki/Q36834) | Музыка | `articles/composer.md` |
+| 3 | [Настольные игры](../7.2_leisure/useful_and_interesting_leisure/articles/board_and_intellectual_games.md) | [Q131436](https://www.wikidata.org/wiki/Q131436) | Игры | `articles/board-games.md` |
+| 4 | [Киберспорт](../7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md) | [Q300920](https://www.wikidata.org/wiki/Q300920) | Игры | `articles/esports.md` |
+| 5 | Азартные игры и их [вред](../3.1. healthy lifestyle/Sleep, nutrition, and adolescent energy/articles/the_energy_trap.md) | [Q133323](https://www.wikidata.org/wiki/Q133323) | Игры | `articles/gambling-and-harm.md` |
+| 6 | [Геймификация](articles/gamification.md) | [Q1145661](https://www.wikidata.org/wiki/Q1145661) | Игры | `articles/gamification.md` |
+| 7 | [Композитор](articles/composer.md) | [Q36834](https://www.wikidata.org/wiki/Q36834) | Музыка | `articles/composer.md` |
 | 8 | Жанры музыки | [Q188451](https://www.wikidata.org/wiki/Q188451) | Музыка | `articles/music_genres.md` |
 | 9 | Музыкальные инструменты | [Q34379](https://www.wikidata.org/wiki/Q34379) | Музыка | `articles/musical_instruments.md` |
 | 10 | Понятие музыки и её устройство | [Q638](https://www.wikidata.org/wiki/Q638) | Музыка | `articles/music.md` |
-| 11 | История музыки | [Q188451](https://www.wikidata.org/wiki/Q188451) | Музыка | `articles/history_of_music.md` |
-| 12 | Влияние музыки на человека | [Q886424](https://www.wikidata.org/wiki/Q886424) | Музыка | `articles/psychology_of_music.md` |
-| 13 | Режиссёр | [P57](https://www.wikidata.org/wiki/Property:P57) | Фильмы | `articles/director.md` |
-| 14 | Сценарий | [Q103076](https://www.wikidata.org/wiki/Q103076) | Фильмы | `articles/script.md` |
+| 11 | [История музыки](articles/history_of_music.md) | [Q188451](https://www.wikidata.org/wiki/Q188451) | Музыка | `articles/history_of_music.md` |
+| 12 | [Влияние музыки](articles/psychology_of_music.md) на человека | [Q886424](https://www.wikidata.org/wiki/Q886424) | Музыка | `articles/psychology_of_music.md` |
+| 13 | [Режиссёр](articles/director.md) | [P57](https://www.wikidata.org/wiki/Property:P57) | Фильмы | `articles/director.md` |
+| 14 | [Сценарий](articles/script.md) | [Q103076](https://www.wikidata.org/wiki/Q103076) | Фильмы | `articles/script.md` |
 | 15 | Саундтрек | [Q217199](https://www.wikidata.org/wiki/Q217199) | Фильмы | `articles/soundtrack.md` |
 | 16 | Фильм | [Q11424](https://www.wikidata.org/wiki/Q11424) | Фильмы | `articles/movie.md` |
-| 17 | Спецэффекты | [Q8317](https://www.wikidata.org/wiki/Q8317) | Фильмы | `articles/special_effects.md` |
-| 18 | Монтаж | [Q237893](https://www.wikidata.org/wiki/Q237893) | Фильмы | `articles/montage.md` |
+| 17 | [Спецэффекты](articles/special_effects.md) | [Q8317](https://www.wikidata.org/wiki/Q8317) | Фильмы | `articles/special_effects.md` |
+| 18 | [Монтаж](../5.1_technology_and_digital_literacy/information and media literacy/оценка_качества_изображений_и_видео.md) | [Q237893](https://www.wikidata.org/wiki/Q237893) | Фильмы | `articles/montage.md` |
 | 19 | Мультфильм | [Q202866](https://www.wikidata.org/wiki/Q202866) | Фильмы | `articles/animation.md` |
-| 20 | Документальный фильм | [Q93204](https://www.wikidata.org/wiki/Q93204) | Фильмы | `articles/documentary.md` |
+| 20 | [Документальный фильм](articles/documentary.md) | [Q93204](https://www.wikidata.org/wiki/Q93204) | Фильмы | `articles/documentary.md` |
 | 21 | Медиаграмотность | [Q1004817](https://www.wikidata.org/wiki/Q1004817) | Общее | `articles/media_literacy.md` |
 
 ## Источники знаний
 
 ### WikiData / SPARQL
 
-Для каждого понятия из таблицы выше были извлечены данные из WikiData с помощью SPARQL-запросов:
+Для каждого понятия из таблицы выше были извлечены [данные](../2.1_society/cause_and_effect_relationships/articles/ai_causality.md) из WikiData с помощью SPARQL-запросов:
 - Метки и описания на русском/английском языках
 - Иерархические связи (P279 — subclass of, P31 — instance of)
-- Связанные сущности (P136 — жанр, P737 — influenced by и др.)
+- Связанные сущности (P136 — [жанр](articles/movie.md), P737 — influenced by и др.)
 
 Скрипт: [`wikidata_extract.py`](wikidata_extract.py)
 
-Результаты: директория [`wikidata/`](wikidata/)
+[Результаты](../1.2_natural_sciences/why_science_help_understand_world/research_work.md): директория [`wikidata/`](wikidata/)
 
 ### Генерация текстов
 
 Тексты энциклопедических статей сгенерированы с помощью **GigaChat API** (модель GigaChat, бесплатный лимит GIGACHAT_API_PERS).
 
 Промпт-шаблон:
-> **Системный**: "Ты автор детской энциклопедии для восьмиклассников. Пиши просто, интересно и понятно для десятилетнего ребёнка. Пиши развёрнуто, подробно раскрывая каждый раздел."
+> **Системный**: "Ты [автор](../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md) детской энциклопедии для восьмиклассников. Пиши просто, интересно и понятно для десятилетнего ребёнка. Пиши развёрнуто, подробно раскрывая каждый раздел."
 >
-> **Пользователь**: "Напиши подробную статью для детской энциклопедии о понятии «{понятие}». Тема раздела: «Игры, фильмы и музыка: баланс пользы и развлечения». Описание: {description}. Содержание: введение, история, виды, интересные факты (3-5), примеры из жизни, польза, риски, баланс, заключение. Используй WikiData: {wikidata_context}. Ответ в формате markdown."
+> **Пользователь**: "Напиши подробную статью для детской энциклопедии о понятии «{понятие}». Тема раздела: «Игры, фильмы и музыка: баланс пользы и развлечения». Описание: {description}. Содержание: введение, [история](../2.1_society/cause_and_effect_relationships/articles/lessons_of_history.md), [виды](../3.1_healthy_lifestyle/pervaya_pomoshch/ushibi_porezy_ozhogi/08_porezy_sadiny_vidy.md), интересные факты (3-5), примеры из жизни, [польза](../7.2_leisure/useful_and_interesting_leisure/articles/computer_games_with_benefit.md), [риски](../7.2_leisure/useful_and_interesting_leisure/articles/safety_during_recreation.md), баланс, заключение. Используй WikiData: {wikidata_context}. Ответ в формате markdown."
 
 Параметры: `temperature=0.7`, `max_tokens=3000`
 
