@@ -104,3 +104,8 @@
 *   [Виртуальная память](virtual_memory.md)
 *   [Планировщик](scheduling.md)
 *   [Управление памятью](memory_management.md)
+
+---
+[Автор](../../5.1_technology_and_digital_literacy/information and media literacy/авторское_право_и_честное_использование.md): [Жаворонков Никита](https://github.com/Supertos)
+
+*LLM - Qwen3.5-Plus*
